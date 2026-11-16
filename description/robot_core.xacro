@@ -151,5 +151,7 @@
         <ambient>0 0 0 1</ambient>
         <diffuse>0 0 0 1</diffuse>
     </material>
+    <mu1>0.0</mu1>
+    <mu2>0.0</mu2>
     </gazebo>
 </robot>
